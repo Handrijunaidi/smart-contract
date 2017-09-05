@@ -1,5 +1,6 @@
 ## Dream Team token
 
+DreamTeam Token is the single currency for making all purchases and payments on the platform.
 
 ## Requirements
 
